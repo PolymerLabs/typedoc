@@ -61,7 +61,7 @@
     "grunt-ts": "^6.0.0-beta.21",
     "grunt-tslint": "^5.0.2",
     "istanbul": "^0.4.1",
-    "mocha": "^5.2.0",
+    "mocha": "^11.5.0",
     "mockery": "^2.1.0",
     "ts-node": "^7.0.0",
     "tslint": "^5.10.0"
